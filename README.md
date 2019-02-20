@@ -1,3 +1,14 @@
-# hello
-my first repo on github
-More files to be added in coming days 
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
